@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dabiri Uthman</h1>
+<h1 align="center">Dabiri Uthman</h1>
 <h3 align="center">A FullStack Develeloper</h3>
 <video alt="An Image Of A Programmer" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-4375641-3645911.mp4" autoplay="autoplay" width="400" style="border:1px solid black;border-radius:8px;" muted="muted" loop="loop" playsinline="" type="video/mp4"></video>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dabirideji&label=Profile%20views&color=0e75b6&style=flat" alt="dabirideji" /> </p>
