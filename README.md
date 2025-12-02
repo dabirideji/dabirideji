@@ -5,7 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dabirideji" alt="dabirideji" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<a href="https://github.com/dabirideji?tab=followers"><img src="https://img.shields.io/github/followers/dabirideji?label=Followers&style=social" alt="GitHub followers" /></a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dabirideji&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-success?style=for-the-badge" alt="status" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge" alt="focus" />
+</p>
+
+
 
 - 🔭 I’m currently working on **A Bank Application**
 
@@ -17,7 +24,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dabirideji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dabirideji" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/uthman-dabiri-576339288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="mailto:dabirideji@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="30" width="40" /></a>
+<a href="https://wa.me/2348142546500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
+<a href="tel:+2348105729702" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="phone" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
