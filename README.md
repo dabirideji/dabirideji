@@ -10,6 +10,7 @@
   <a href="https://www.linkedin.com/in/uthman-dabiri-576339288"><img src="https://img.shields.io/badge/LinkedIn-Uthman%20Dabiri-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:dabirideji@gmail.com"><img src="https://img.shields.io/badge/Email-dabirideji%40gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/2348142546500"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://dabirideji.github.io"><img src="https://img.shields.io/badge/Portfolio-dabirideji.github.io-111111?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
