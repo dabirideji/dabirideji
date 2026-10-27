@@ -52,7 +52,7 @@ automation) and use them every day to ship faster.
 
 <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET 8" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Kafka" /> <img src="https://img.shields.io/badge/AKS-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" alt="AKS" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/NIBSS%20%2F%20BVN-0B6E4F?style=flat-square" alt="NIBSS / BVN" />
 
-### CTO & Solutions Architect (Contract) · [SwissPay](https://swisspay.africa/)
+### CTO & Solutions Architect · [SwissPay](https://swisspay.africa/)
 <sub><b>2025 - 2026</b> · Tap-to-pay platform that turns a smartphone into a payment terminal (NFC, QR, BLE, offline payments)</sub>
 
 - Owned the architecture for 1,000-10,000 merchants and users: a 7-project **Clean Architecture / DDD** solution on .NET 9
@@ -62,7 +62,7 @@ automation) and use them every day to ship faster.
 
 <img src="https://img.shields.io/badge/.NET%209-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET 9" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Kafka" /> <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&amp;logo=grpc&amp;logoColor=white" alt="gRPC" /> <img src="https://img.shields.io/badge/Event%20sourcing-555555?style=flat-square" alt="Event sourcing" /> <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&amp;logo=apachecassandra&amp;logoColor=white" alt="Cassandra" /> <img src="https://img.shields.io/badge/Paystack-00C3F7?style=flat-square" alt="Paystack" /> <img src="https://img.shields.io/badge/Flutterwave-F5A623?style=flat-square" alt="Flutterwave" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&amp;logo=stripe&amp;logoColor=white" alt="Stripe" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
 
-### Solutions Architect & Project Lead (Contract) · [LetsMeet](http://letsmeet.chat/)
+### Solutions Architect & Project Lead · [LetsMeet](http://letsmeet.chat/)
 <sub><b>03/2025 - 11/2025</b> · Social and events platform</sub>
 
 - Real-time backend on .NET with an event-driven **SignalR** chat hub
@@ -71,7 +71,7 @@ automation) and use them every day to ship faster.
 
 <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="SignalR" /> <img src="https://img.shields.io/badge/PostGIS%20spatial-336791?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL spatial" /> <img src="https://img.shields.io/badge/Azure%20Maps-0078D4?style=flat-square&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure Maps" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&amp;logo=stripe&amp;logoColor=white" alt="Stripe" />
 
-### Backend & Mobile Engineer (Contract) · [Useri](https://useriapp.com/)
+### Backend & Mobile Engineer · [Useri](https://useriapp.com/)
 <sub><b>2026</b> · Agro-logistics platform</sub>
 
 - .NET backend, admin portal and **Flutter** app (BLoC, on-device OCR, Gemini, Shorebird over-the-air updates, Sentry)
@@ -79,7 +79,7 @@ automation) and use them every day to ship faster.
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&amp;logo=flutter&amp;logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" alt="Google Gemini" /> <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&amp;logo=sentry&amp;logoColor=white" alt="Sentry" /> <img src="https://img.shields.io/badge/Paystack-00C3F7?style=flat-square" alt="Paystack" />
 
-### Backend Engineer (Contract) · Coronation Registrars (via Gapplus)
+### Backend Engineer · Coronation Registrars (via Gapplus)
 <sub><b>2023 - 2025</b> · Capital-markets registrar platforms · [ShareholderLive](https://shareholderlive.coronationregistrars.com/) · [IssuerLive](https://issuerlive.coronationregistrars.com/) · [Virtual AGM](https://coronation.ng/institutional/products-solutions/registrars-and-data-Management-services/company-registrar-services/meeting-administration/)</sub>
 
 - Registrar API gateway, ShareholderLive (portfolios, dividends, share trading) and IssuerLive
@@ -88,7 +88,7 @@ automation) and use them every day to ship faster.
 
 <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="ASP.NET Core" /> <img src="https://img.shields.io/badge/API%20gateway-555555?style=flat-square" alt="API gateway" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="SQL Server" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
 
-### Backend Developer (Contract) · DeCloud23 Tech - [ZHEETA](https://www.zheeta.com/)
+### Backend Developer · DeCloud23 Tech - [ZHEETA](https://www.zheeta.com/)
 <sub><b>05/2024 - 12/2025</b> · Social platform API</sub>
 
 - Age verification on profile creation and an event verification workflow
