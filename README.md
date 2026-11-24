@@ -174,9 +174,9 @@ Most of my work lives in private client repositories, so these numbers come from
 <!-- STATS:START -->
 | Contributions since 2022 | Last 12 months | Active days (12 mo) | Longest streak |
 |:---:|:---:|:---:|:---:|
-| **12,556** | **7,039** | **339** | **94 days** |
+| **12,565** | **7,024** | **339** | **94 days** |
 
-<sub>Auto-refreshed 2026-11-23 (UTC) by a GitHub Action in this repo.</sub>
+<sub>Auto-refreshed 2026-11-24 (UTC) by a GitHub Action in this repo.</sub>
 <!-- STATS:END -->
 
 <p align="center">
